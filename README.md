@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+#Horiseon: Leader in Search Engine Optimiazation & S.M Marketing
 
 ## Description
 
