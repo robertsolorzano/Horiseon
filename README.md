@@ -2,8 +2,8 @@
 
 ## Description
 
-A webpage designed for Horiseon: a Leader in Search engine optimiazation and Social Media Marketing
-It contains stylized boxes with information and a working navbar that directs you to the disired location.
+A webpage designed for Horiseon: The Leader in Search Engine Optimiazation and Social Media Marketing.
+This webpage contains stylized boxes with information and a working navbar that directs you to the desired content.
 
 ## Installation
 
@@ -16,7 +16,11 @@ N/A
 
 ## Credits
 
-N/A
+Sources for studying on the heariarchy of HTML Elements in a semantic manner
+![SemRush Blog: Semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/)
+
+![freeCodeCamp](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them.)
+
 
 ## License
 
