@@ -1,4 +1,4 @@
-#Horiseon: Leader in Search Engine Optimiazation & S.M Marketing
+# Horiseon: Leader in Search Engine Optimiazation & S.M Marketing
 
 ## Description
 
@@ -11,7 +11,8 @@ N/A
 
 ## Screenshot
 
-![Screenshot of webpage and console](assets/images/SEO-preview.jpeg)
+![Screenshot of Webpage](Develop/assets/images/SEO-preview.jpeg)
+
 
 ## Credits
 
