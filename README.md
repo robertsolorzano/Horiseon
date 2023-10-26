@@ -11,7 +11,7 @@ N/A
 
 ## Screenshot
 
-![Screenshot of Webpage](Develop/assets/images/SEO-preview.jpeg)
+![Screenshot of Webpage](Public/assets/images/SEO-preview.jpeg)
 
 
 ## Credits
