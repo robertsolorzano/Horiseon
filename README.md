@@ -21,7 +21,7 @@ Link: [![Horiseon: Leader in SEO & Marketing](https://robertsolorzano.github.io/
 
 ## Credits
 
-Sources for studying on the heariarchy of HTML Elements in a semantic manner
+Sources for studying on the heariarchy of HTML Elements 
 
 [![SemRush Blog: Semantic HTML](assets\images\semablogimage.png)](https://www.semrush.com/blog/semantic-html5-guide/)
 
