@@ -2,8 +2,11 @@
 
 ## Description
 
-A webpage designed for Horiseon: The Leader in Search Engine Optimiazation and Social Media Marketing.
-This webpage contains stylized boxes with information and a working navbar that directs you to the desired content.
+A webpage designed for Horiseon: The Leader in Search Engine Optimiazation and Social Media Marketing. <br>
+This webpage contains stylized boxes with information and a working navbar that directs you to the desired content. <br>
+
+I consolidated the inital code and semantically ordered elements accordingly to improve SEO. <br>
+Added commits in areas of change for future devs when reading for clear concise code. <br>
 
 ## Installation
 
