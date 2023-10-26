@@ -7,7 +7,7 @@ This webpage contains stylized boxes with information and a working navbar that 
 
 ## Installation
 
-No installation required 
+No installation required <br>
 Link: [![Horiseon: Leader in SEO & Marketing](https://robertsolorzano.github.io/Horiseon/)](https://robertsolorzano.github.io/Horiseon/)
 
 
