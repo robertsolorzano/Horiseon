@@ -89,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Consolidated all three classes due to matching values, better vis*/
 .aside-benefit-bar-lead,
 .aside-benefit-bar-brand,
 .aside-benefit-bar-cost {
